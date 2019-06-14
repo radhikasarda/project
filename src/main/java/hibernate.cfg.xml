@@ -8,7 +8,7 @@
 
 		<!-- Connection settings -->
 		<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
-		<property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/trainee1</property>
+		<property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/trainee2</property>
 		<property name="hibernate.connection.username">axelor</property>
 		<property name="hibernate.connection.password">axelor</property>
 
